@@ -1,0 +1,48 @@
+Carrie Scott
+
+GIT Assessment
+Know the following:
+
+Why do we use Git?
+	It’s a free and opensource version control system.
+
+What is the difference between Git and Github
+	Git is the version control system for your repos. Github is an online site to 		backup or collaborate git repos.
+
+How does Git work?
+	Files go through stages, unstaged, staged, or committed. Once committed, they are 	part of the new revision. 
+
+What is a Git repository?
+	It’s a collection of revisions to a document, piece of code, or other digital 		project. 
+
+Initialize a Git repository
+add and commit changes to a Git repository
+Add remote destinations to your local Git repository
+push commits from your local Git repository to a remote repository
+
+Explain and be able to do the following:
+- Fork and Clone
+
+- `git add`
+	This adds a new file to a git repository
+
+- `git push`
+	pushes your last commit to Github
+
+- `git commit -m 'some message'`
+	Allows you to add a comment to your new push.
+
+- `git push origin master`
+	Allows you to specify what exactly you are pushing to github.	
+
+- `git remote -v`
+	reveals to you what is contained in the remote branch
+
+- `git status`
+	Shows you what files are being tracked by your git repo and what stage they are 	at. 
+
+- `git remote add [remote url here] `
+	This is how you connect your git repo to a remote repo on github.
+
+- `git remote remove origin`
+	To remove your file from the remote git repo. or perhaps to remove the entire repo. 
