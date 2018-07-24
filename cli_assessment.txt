@@ -1,0 +1,35 @@
+Carrie Scott
+
+CLI Assessment
+You should know the following:
+
+Why do we use a CLI?
+	It’s interactive and scriptable
+
+What is the difference between shell and terminal?
+	Shell is a general term term for an interface. Terminal is a type of shell. Terminal is a command-line application 
+
+What are flags?
+	A way to specify options or preferences for command-line programs.
+
+What are file permissions and why do they exist?
+	File permissions specify what you are able to do to a file. They are useful when sharing files among different users.
+  
+ 
+Explain and be able to use the following shell commands:
+- `cd`
+	Change directory. Use ‘cd **directory name**’ to go forward to a directory. Use 	‘cd’ to go back or up a level. 
+- `touch`
+	Changes the timestamp that something was modified or accessed. If the item does 	not exist, then touch creates the specified item. 
+- `ls`
+	Lists children directories of the one you are in. Lists the folders inside the 		folder you are in. 
+- `pwd`
+	Print working directory. Shows you what the working directory path is (spells it 	out). 
+- `mkdir`
+	Make directory. Similar to Create Folder.
+- `rm`
+	Removes a file. 
+- `sudo`
+	Execute a command as another user
+- `cat`
+	Read or view a file (in terminal)
